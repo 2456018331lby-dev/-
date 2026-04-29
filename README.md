@@ -1,7 +1,8 @@
-# 嵌入式课设
+## Maintainers
 
-<!--
-  Co-Author: Simon Su (Simon-Su-1105)
-  Email: 1362495971@qq.com
-  Role: Key Maintainer & Contributor
--->
+**Simon Su** ([@Simon-Su-1105](https://github.com/Simon-Su-1105)) — Key Maintainer & Contributor  
+Email: 1362495971@qq.com
+
+---
+
+嵌入式课设
